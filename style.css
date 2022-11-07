@@ -62,7 +62,6 @@ h1{
     flex-direction: row;
     justify-content: space-between;
     color: var(--blue);
-    background-color: var(--yellow);
 }
 .free {
     padding: 33px;
