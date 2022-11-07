@@ -41,6 +41,7 @@ h1{
 .cards {
     display: flex;
     flex-direction: row;
+    margin-top: -60px;
     gap: 20px;
     font-weight: 700;
 }
@@ -142,6 +143,22 @@ button {
     background-color: var(--blue);
     color: #FFFFFF;
     border-radius: 10px;
+}
+.risco {
+    display: flex;
+    align-items: center;
+    background-color: var(--page-background);
+}
+.amarelo {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--yellow);
+    padding: 33px;
+    margin-top: -50px;
+    margin-left: -33px;
+    border-radius: 8px 8px 0px 0px;
+    width: 355px;
+    height: 76px;
 }
 @media only screen and (max-width: 1200px) {
     .branco {
