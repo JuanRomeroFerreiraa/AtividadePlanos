@@ -54,15 +54,6 @@ h1{
     width: 355px;
     height: 470px;
 }
-.free div {
-    padding: 30px;
-    display: flex;
-    width: auto;
-    height: 76px;
-    flex-direction: row;
-    justify-content: space-between;
-    color: var(--blue);
-}
 .free {
     padding: 33px;
     display: flex;
