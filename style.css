@@ -151,6 +151,7 @@ button {
 .amarelo {
     display: flex;
     justify-content: space-between;
+    color: var(--blue);
     background-color: var(--yellow);
     padding: 33px;
     margin-top: -50px;
